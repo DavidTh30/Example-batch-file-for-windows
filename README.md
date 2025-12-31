@@ -20,3 +20,11 @@ Example batch file for windows
 -loop for
 
 -if, elseif , else
+
+-ramdom Temp folder
+
+-recheck Temp folder before create folder
+
+-enter/exit Temp folder
+
+-display command line by line
