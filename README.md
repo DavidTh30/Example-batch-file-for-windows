@@ -34,3 +34,5 @@ Example batch file for windows
 -file exist
 
 -checking argument
+
+-ASCII Art
