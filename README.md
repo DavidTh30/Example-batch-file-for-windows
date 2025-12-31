@@ -1,7 +1,7 @@
 # Example-batch-file-for-windows
 Example batch file for windows
 
--suppressing newlines
+-suppressing new lines
 
 -combining commands in one line
 
