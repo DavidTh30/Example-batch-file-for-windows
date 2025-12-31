@@ -11,6 +11,10 @@ Example batch file for windows
 
 -overwrite the same line
 
+-set backspace in batch file
+
+-set ESC in batch file
+
 -set backspace in batch file use with VBS
 
 -loop for
