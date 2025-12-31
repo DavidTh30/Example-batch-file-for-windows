@@ -28,3 +28,7 @@ Example batch file for windows
 -enter/exit Temp folder
 
 -display command line by line
+
+-input Yes/No chose
+
+-file exist
