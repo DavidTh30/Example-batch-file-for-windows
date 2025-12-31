@@ -32,3 +32,5 @@ Example batch file for windows
 -input Yes/No chose
 
 -file exist
+
+-checking argument
