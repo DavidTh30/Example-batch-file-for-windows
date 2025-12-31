@@ -9,3 +9,5 @@ Example batch file for windows
 
 -text on the same line
 
+-loop for
+-if, elseif , else
