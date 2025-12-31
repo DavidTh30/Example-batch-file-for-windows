@@ -6,6 +6,7 @@ echo -set backspace in batch file
 ::chcp 65001 > nul
 
 echo Loading
+::for /f "tokens=1 delims=# " %%a in ('"prompt #$H# & for %%b in (1) do rem"') do set "BS=%%a"
 for /f %%a in ('"prompt $H&for %%b in (1) do rem"') do set "BS=%%a"
 
 for /l %%x in (1, 1, 100) do (
@@ -16,4 +17,5 @@ rem CALL dir/w > NUL
 )
 
 echo.
+
 pause
