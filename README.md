@@ -36,3 +36,5 @@ Example batch file for windows
 -checking argument
 
 -ASCII Art
+
+<img width="542" height="188" alt="image" src="https://github.com/user-attachments/assets/6064184e-1dd0-46f4-8375-9b2c8c0fdd4c" />
