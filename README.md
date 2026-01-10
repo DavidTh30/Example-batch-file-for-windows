@@ -38,3 +38,5 @@ Example batch file for windows
 -ASCII Art
 
 <img width="542" height="188" alt="image" src="https://github.com/user-attachments/assets/6064184e-1dd0-46f4-8375-9b2c8c0fdd4c" />
+
+<img width="619" height="332" alt="image" src="https://github.com/user-attachments/assets/75d9fef7-1536-49fd-867c-e23fd5bfe2a9" />
