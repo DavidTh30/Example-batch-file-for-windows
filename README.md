@@ -11,6 +11,8 @@ Example batch file for windows
 
 -overwrite the same line
 
+-choices menu
+
 -set backspace in batch file
 
 -set ESC in batch file
